@@ -688,7 +688,7 @@ class orders extends MY_Controller {
 				array_push($data_array, $temp_array);
 
 			}
-			// echo "<pre>";print_r($data_array); echo "</pre>";exit;
+			echo "<pre>";print_r($data_array); echo "</pre>";exit;
 			$result = $this -> db -> insert_batch('facility_order_details', $data_array);
 			if ($result){
 				// echo "I WORK: ".$result;
