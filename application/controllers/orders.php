@@ -855,7 +855,7 @@ class orders extends MY_Controller {
 	 	// echo $filename;
  		if ($source == 1) {
  			$filename =isset($filename) ? $filename.'.xls' : time().'.xls';
-	$inputFileName ="print_docs/excel/excel_files/".$filename;
+	$inputFileName = FCPATH."print_docs/excel/excel_files/".$filename;
 	$excel2 = PHPExcel_IOFactory::createReader('Excel5');
     $excel2=$objPHPExcel= $excel2->load($inputFileName); // Empty Sheet
     
