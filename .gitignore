@@ -10,9 +10,37 @@ database.php
 /nbproject
 database_backups
 
-
 system/libraries/Hcmp_functions.php
 application/config/database.php
 .htaccess
-*.xls
-application/views/subcounty/ajax/system_usage_graph.php
+print_docs/excel/excel_files/Admin Facility_facility_order_no_846_KEMSA_date_created_01-10-15.xls
+print_docs/excel/excel_files/Chandaria Health Centre_facility_order_no_671_KEMSA_date_created_24-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_671_MEDS_date_created_01-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_672_MEDS_date_created_01-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_673_KEMSA_date_created_01-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_674_KEMSA_date_created_01-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_676_MEDS_date_created_01-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_818_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_819_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_821_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Dagoretti Approved Dispensary_facility_order_no_825_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Gitiha Dispensary_facility_order_no_677_KEMSA_date_created_02-09-15.xls
+print_docs/excel/excel_files/Gitiha Dispensary_facility_order_no_677_date_created_02-09-15.xls
+print_docs/excel/excel_files/Gitiha Dispensary_facility_order_no_678_MEDS_date_created_02-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_826_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_827_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_828_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_831_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_839_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_840_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_841_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_842_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_843_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_844_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Kasarani Health Centre_facility_order_no_845_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Langata Health Centre_facility_order_no_832_date_created_17-08-15.xls
+print_docs/excel/excel_files/Ngong Road Health Centre_facility_order_no_813_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Ngong Road Health Centre_facility_order_no_815_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Ngong Road Health Centre_facility_order_no_816_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Ngong Road Health Centre_facility_order_no_817_KEMSA_date_created_30-09-15.xls
+print_docs/excel/excel_files/Ngong Road Health Centre_facility_order_no_823_KEMSA_date_created_30-09-15.xls
